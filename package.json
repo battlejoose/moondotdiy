@@ -1,23 +1,3 @@
-{
-  "name": "server",
-  "version": "0.0.1",
-  "description": "node js server",
-  "main": "server.js",
-  "engines": {
-    "node": "14.x"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "socket.io": "^4.6.1",
-    "socketio": "^1.0.0",
-    "uuid": "^9.0.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "Rio 3D Studios",
-  "license": "MIT"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:576d86aa403637a1ca40aeb6d6c4144658659550c3d7510e6e98cf54b6612549
+size 585
